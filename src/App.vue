@@ -1,8 +1,9 @@
 <template>
   <div id="app">
-    <h2>预祝大家前程似锦</h2>
-    <h2>加油02！HelloWorld!</h2>
-    <img src="https://pic.sogou.com/d?query=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83&forbidqc=&entityid=&preQuery=&rawQuery=&queryList=&st=&did=3">
+    <h2>人生若只如初见，何事悲风秋画扇</h2>
+    <h2>猎荒者，无尽之战！！！</h2>
+    <img src="https://i03piccdn.sogoucdn.com/543bbd5aaf6a68bd">
+    <img src="https://i04piccdn.sogoucdn.com/d982c77ede4bd31d">
   </div>
 </template>
 
